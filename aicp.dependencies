@@ -30,8 +30,8 @@
         "branch":      "kitkat"
     },
     {
-        "repository": "AICP/kernel_samsung_exynos5410",
+        "repository": "CyanogenMod/android_kernel_samsung_exynos5410",
         "target_path": "kernel/samsung/exynos5410",
-        "branch":      "kitkat"
+        "branch":      "cm-11.0"
     }
 ]
